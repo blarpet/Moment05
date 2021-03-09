@@ -1,0 +1,48 @@
+Account has the value of 10000 kr. 
+There has been 0 years.
+
+Account has the value of 10300.0 kr. 
+There has been 1 years.
+
+Account has the value of 10609.0 kr. 
+There has been 2 years.
+
+Account has the value of 10927.27 kr. 
+There has been 3 years.
+
+Account has the value of 11255.0881 kr. 
+There has been 4 years.
+
+Account has the value of 11592.740743 kr. 
+There has been 5 years.
+
+Account has the value of 11940.522965290002 kr. 
+There has been 6 years.
+
+Account has the value of 12298.738654248702 kr. 
+There has been 7 years.
+
+Account has the value of 12667.700813876163 kr. 
+There has been 8 years.
+
+Account has the value of 13047.73183829245 kr. 
+There has been 9 years.
+
+Account has the value of 13439.163793441223 kr. 
+There has been 10 years.
+
+Account has the value of 13842.338707244458 kr. 
+There has been 11 years.
+
+Account has the value of 14257.608868461793 kr. 
+There has been 12 years.
+
+Account has the value of 14685.337134515648 kr. 
+There has been 13 years.
+
+Account has the value of 15125.897248551119 kr. 
+There has been 14 years.
+
+Account has the value of 15579.674166007653 kr. 
+There has been 15 years.
+
